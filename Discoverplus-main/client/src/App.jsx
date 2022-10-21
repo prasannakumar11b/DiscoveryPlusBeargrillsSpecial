@@ -6,8 +6,8 @@ import Slider from './Component/Pages/Home/Slider';
 import Showlove from './Component/Pages/Home/Showlove';
 import Showloveall from './Component/Pages/Home/Showloveall';
 import Newly from './Component/Pages/Home/Newly'
-import { Switch, Route } from 'react-router-dom';
-import Watch from './Component/Pages/Watch/Watch';
+///import { Switch, Route } from 'react-router-dom';
+//import Watch from './Component/Pages/Watch/Watch'
 import Free from './Component/Pages/Home/Free';
 import Best from './Component/Pages/Home/Best';
 import Hindi from './Component/Pages/Home/Hindi'
